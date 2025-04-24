@@ -1,0 +1,1 @@
+在根目录下建立.github/workflows/Obfuscate.yml，复制自动混淆代码，这样就自动运行代码了
