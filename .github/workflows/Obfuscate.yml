@@ -21,7 +21,7 @@ jobs:
 
       - name: 下载并重命名 BPB worker.js
         run: |
-          wget -O _worker.js https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/download/v3.3.12/worker.js
+          wget -O _worker.js https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/download/v3.3.18/worker.js
 
       - name: 提交更改
         uses: stefanzweifel/git-auto-commit-action@v5
