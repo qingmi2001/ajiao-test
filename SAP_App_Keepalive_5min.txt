@@ -1,0 +1,31 @@
+name: SAP CF APP保活
+
+on:
+  schedule:
+    - cron: "*/5 0 * * *"
+  workflow_dispatch:
+
+
+concurrency:
+  group: keepalive
+  cancel-in-progress: true
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: KeepAlive via container
+        uses: docker://ghcr.io/uncleluogithub/cf-keepalive:latest
+        env:
+          CF_USERNAME: ${{ secrets.CF_USERNAME }}
+          CF_PASSWORD: ${{ secrets.CF_PASSWORD }}
+          CF_API:      ${{ secrets.CF_API }}
+          CF_ORG:      ${{ secrets.CF_ORG }}
+          CF_SPACE:    ${{ secrets.CF_SPACE }}
+          CF_APP:      ${{ secrets.CF_APP }}
+          CF_SET_PROCESS_HC: "true"
+          # 调试时打开
+          # DEBUG: "1"
+          # CF_TRACE: "true"
