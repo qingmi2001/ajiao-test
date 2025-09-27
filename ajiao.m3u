@@ -5,9 +5,9 @@
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1,GoodTV 好消息台
 http://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 ,GoodTV
+#EXTINF:-1 ,GoodTV 好消息台
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
-#EXTINF:-1 ,GoodTV2
+#EXTINF:-1 ,GoodTV 真理台
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8 
 #EXTINF:-1,GoodTV 真理台
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
