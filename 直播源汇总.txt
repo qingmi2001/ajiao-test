@@ -1,0 +1,117 @@
+全球公共IPTV频道: 收集来自世界各地的5000多个公共频道
+链接：https://github.com/iptv-org/iptv
+
+国内直播源: 主要电视节目
+链接：https://myernestlu.github.io/zby.txt
+
+直播源列表: 主要电视节目
+链接：http://epg.51zmt.top:8000/
+
+直播源相关资源汇总: IPTV、M3U（最后更新时间：2023年）
+链接：https://github.com/imDazui/Tvlist-awe...
+
+Ftindy/IPTV-URL: Ftindy精选、BigBigGrandG、APTV、YanG
+链接：https://github.com/Ftindy/IPTV-URL
+
+IPTVindex: 电视直播、影视点播、电脑软件（2023年8月8日）
+链接：https://www.iptvindex.com/
+
+fanmingming/live: 国内可直连的直播源分享项目，永久免费，完整开源，不含广告，支持IPv4/IPv6双栈访问
+链接：https://github.com/fanmingming/live
+
+m3u 直播源:
+链接：https://github.com/YanG-1989/m3u
+
+IPTV: 自动整合好趣网直播源+TVBox直播源+其他网上直播源，择取分辨率、速度最佳视频流，定期更新
+链接：https://github.com/joevess/IPTV
+
+Rivens7/Livelist: IPTV-ipv6直播源同步及常看直播，基于Moexin/IPTV项目修改，国内直播源同步fanmingming/live
+链接：https://github.com/Rivens7/Livelist
+
+Tvlist-awesome:
+链接：https://github.com/imDazui/Tvlist-awe...
+
+
+更多资源:
+
+IPTV：https://github.com/kimcrowing/IPTV
+
+WTV：https://github.com/biancangming/wtv
+
+Myiptv：https://github.com/abc1763613206/myiptv
+
+IPTV6直播源：https://github.com/lylehust/Chinese-IPTV
+
+TV-SXYD.m3u：https://raw.githubusercontent.com/lyl...
+
+TV-EDU-HAUST.m3u：https://raw.githubusercontent.com/lyl...
+
+
+工具
+
+支持 IPTV 流的应用程序
+
+Windows
+
+VLC for Windows: 免费开放源代码的便携式跨平台媒体播放器。
+链接：https://www.videolan.org/vlc/download...
+
+Kodi: 具有库支持的免费跨平台媒体播放器。
+链接https://kodi.tv/
+
+IPTV Simple PVR: Kodi的IPTV直播电视和广播PVR客户端插件。
+链接：https://kodi.tv/addon/pvr-client/pvr-...
+MacOS
+
+VLC for Mac OS X: 免费和开放源代码的便携式跨平台媒体播放器。
+链接：https://www.videolan.org/vlc/download...
+
+IINA: 适用于macOS的现代媒体播放器。
+链接：https://iina.io/
+
+Kodi: 具有库支持的免费跨平台媒体播放器。
+链接：https://kodi.tv/
+
+IPTV Simple PVR: Kodi的IPTV直播电视和广播PVR客户端插件。
+链接：https://kodi.tv/addon/pvr-client/pvr-...
+
+
+AppleTV
+
+iPlayTV:
+链接:https://apps.apple.com/us/app/iplaytv...
+使用指南
+打开iPlayTV 点击 ➕号;
+选择 Remote Playlist File;
+第一行随意输入一个名字;
+第二行输入上面给你的地址;
+第三行不用管;
+点 save 即可;
+
+iOS
+
+GSE SMART IPTV: 完整的用户定义的高级IPTV解决方案，用于实时和非实时电视/流。
+链接：https://apps.apple.com/us/app/gse-sma...
+
+Movie Stream: Watch Smart IPTV: 启用Chromecast的应用程序，可让您将收藏的视频从移动设备流式传输到电视。
+链接：https://apps.apple.com/us/app/movie-s...
+
+nPlayer: 支持播放列表文件：CUE、M3U、PLS。
+链接：https://apps.apple.com/cn/app/nplayer...
+
+Android
+
+NET IP TV
+
+Kodi: 具有库支持的免费跨平台媒体播放器。
+
+IPTV Simple PVR: Kodi的IPTV直播电视和广播PVR客户端插件。
+
+PlayStation 4 / Xbox One
+
+Plex: 客户端服务器媒体播放器。为了通过Plex App观看IPTV，可以使用 Cigaras / IPTV.bundle 插件。
+
+使用说明
+以上资源可以直接在支持 m3u 格式的播放器中使用，确保您使用的是兼容的设备。
+请注意，部分链接可能会有更新或失效，建议定期检查。
+如果您测试过某些源的效果，请评论区分享您的使用体验！
