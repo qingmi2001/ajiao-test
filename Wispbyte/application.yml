@@ -1,0 +1,10 @@
+app:
+  domain: "194.164.56.165"
+  port: "9373"
+  uuid: "95a74e2f-7bf0-4963-b7d1-afb4bced10a1"
+  xray-version: "25.10.15"
+  hy2-version: "2.6.5"
+  argo-version: "2025.10.0"
+  argo-domain: "1001.800721.xyz"
+  argo-token: "eyJhIjoiMjkyNjU4MWE0NmU2N2Q2MTNjNzU3Mzg1Mzc3NjM3NDEiLCJ0IjoiZDUyY2MyOTQtYmYwMC00YmFmLTlkNzMtZTE2ZjBjOTZhMjI4IiwicyI6Ik1ESXpOREl6T0RrdFl6azJOaTAwWkRVNUxXRmhaVGN0TlRZM09ERTRZbU0zWVRFeSJ9"
+  remarks-prefix: "wispbyte"
