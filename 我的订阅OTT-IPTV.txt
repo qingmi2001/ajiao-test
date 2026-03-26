@@ -1,1 +1,4 @@
-https://live.ottiptv.cc/iptv.m3u?userid=7576776924&sign=63c93d9d2392a9bacf78312d9cfa4f756752dcd678c81e6e7ff45cccd117a249a1dea0fb9118f2374fd34b420e2bcafaaf1731e577ddae384673fe51f1b059c0c1b0592c55fa59&auth_token=4170588d643aa44e389f0bdd82c0d18b
+https://live.ottiptv.cc/iptv.m3u?userid=7576776924&sign=e28ce4449da7c653dc9bc84d0ebe21ff1d66c2d3af3dccf1c5bc9082ea33f6e59bf146b87753f6502e22832269c5bc9cc33907f8a459db4803dbdffaaca3c9b9d44c8fabd072ef&auth_token=4170588d643aa44e389f0bdd82c0d18b
+
+
+User-Agent=okHttp/Mod-1.5.0.0
